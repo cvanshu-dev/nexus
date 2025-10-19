@@ -5,7 +5,7 @@ const members = [
   
   { id: 1, name: "Rishabh Shukla", role: "Developer", image: "/img/logo.webp" },
   { id: 2, name: "Rishabh Chaurasiya", role: "Designer", image: "/img/logo.webp" },
-  { id: 3, name: "Shivanshu Mishra", role: "Team Lead", image: "/img/logo.webp" },
+  { id: 3, name: "Shivanshu Mishra", role: "Team Leader", image: "/img/logo.webp" },
   { id: 4, name: "Shaurya Shrivastava", role: "Content Head", image: "/img/logo.webp" },
   { id: 5, name: "Samradh Vikram Shrivastava", role: "Marketing", image: "/img/logo.webp" },
   { id: 6, name: "Tanya Trivedi", role: "Marketing", image: "/img/logo.webp" },
