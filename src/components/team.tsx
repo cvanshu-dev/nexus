@@ -2,9 +2,10 @@ import { useState, useRef, useLayoutEffect, useCallback, useEffect } from "react
 
 // --- Member Data (Unchanged) ---
 const members = [
-  { id: 1, name: "Shivanshu Mishra", role: "Team Lead", image: "/img/logo.webp" },
+  
   { id: 2, name: "Rishabh Shukla", role: "Developer", image: "/img/logo.webp" },
   { id: 3, name: "Rishabh Chaurasiya", role: "Designer", image: "/img/logo.webp" },
+  { id: 1, name: "Shivanshu Mishra", role: "Team Lead", image: "/img/logo.webp" },
   { id: 4, name: "Shaurya Shrivastava", role: "Content Head", image: "/img/logo.webp" },
   { id: 5, name: "Samradh Vikram Shrivastava", role: "Marketing", image: "/img/logo.webp" },
   { id: 6, name: "Tanya Trivedi", role: "Marketing", image: "/img/logo.webp" },
